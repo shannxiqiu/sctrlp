@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>sctrlp-git</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ui.py</name>
+			<type>1</type>
+			<location>D:/autopilots/code/sctrlp/src/ui.py</location>
+		</link>
+		<link>
+			<name>src/main.py</name>
+			<type>1</type>
+			<location>D:/autopilots/code/sctrlp/src/main.py</location>
+		</link>
+		<link>
+			<name>src/wpdata.py</name>
+			<type>1</type>
+			<location>D:/autopilots/code/sctrlp/src/wpdata.py</location>
+		</link>
+		<link>
+			<name>src/wpexception.py</name>
+			<type>1</type>
+			<location>D:/autopilots/code/sctrlp/src/wpexception.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>
